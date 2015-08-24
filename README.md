@@ -15,7 +15,7 @@
 
 其中，全马训练配速可参考文档：[全马训练配速简介](./docs/全马训练配速简介.md)
 
-## 注意：
+## 参考资料：
 
 * 比赛成绩预测使用了Dave Cameron公式，参考信息如下：
 	* [Race Time Predictor](http://www.runningforfitness.org/faq/rp)
